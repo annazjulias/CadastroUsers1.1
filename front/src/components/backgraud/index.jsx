@@ -1,5 +1,5 @@
 import { Video } from "./styles";
-import meuVideo from "../../assets/backgraud.mp4";
+import meuVideo from "../../assets/novo2.mp4";
 
 function TopBackgraud() {
   return (
